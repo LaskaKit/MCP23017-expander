@@ -10,4 +10,4 @@ Díky nastavitelnému tříbitovému adresování by neměl být problém pospoj
 
 Modul obsahuje 3x pajecí jumpery a umožňuje měnit adresu, vic info viz datasheet R1, R2 a R3 jsou pull-up rezistory.
 
-## Tento modul můžeš koupit na https://www.laskakit.cz/pcf8575-i2c-16-bit-i-o-expander/
+## Tento modul můžeš koupit na https://www.laskakit.cz/laskakit-mcp23017-i2c-16-bit-i-o-expander/
