@@ -10,4 +10,4 @@ With adjustable three-bit addressing, it should be no problem to connect up to 8
 
 The module contains 3x jumper pairs and allows to change the address, for more info see datasheet R1, R2 and R3 are pull-up resistors.
 
-## The module is available on https://www.laskakit.cz/pcf8575-i2c-16-bit-i-o-expander/
+## The module is available on https://www.laskakit.cz/laskakit-mcp23017-i2c-16-bit-i-o-expander/
